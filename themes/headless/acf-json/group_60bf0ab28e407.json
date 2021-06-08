@@ -147,8 +147,46 @@
                             "maxlength": "",
                             "rows": 2,
                             "new_lines": ""
+                        },
+                        {
+                            "key": "field_60bfd7a0d98f1",
+                            "label": "URL",
+                            "name": "url",
+                            "type": "text",
+                            "instructions": "",
+                            "required": 0,
+                            "conditional_logic": 0,
+                            "wrapper": {
+                                "width": "",
+                                "class": "",
+                                "id": ""
+                            },
+                            "default_value": "",
+                            "placeholder": "",
+                            "prepend": "",
+                            "append": "",
+                            "maxlength": ""
                         }
                     ]
+                },
+                {
+                    "key": "field_60bfd7bdd98f2",
+                    "label": "FB Domain",
+                    "name": "fb_domain",
+                    "type": "text",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": "",
+                    "prepend": "",
+                    "append": "",
+                    "maxlength": ""
                 }
             ]
         }
@@ -177,5 +215,5 @@
     "hide_on_screen": "",
     "active": true,
     "description": "",
-    "modified": 1623133173
+    "modified": 1623185351
 }

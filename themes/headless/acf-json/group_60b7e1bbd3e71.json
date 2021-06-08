@@ -97,9 +97,9 @@
                 },
                 {
                     "key": "field_60b8f260a1448",
-                    "label": "Link HDV",
-                    "name": "link_hdv",
-                    "type": "text",
+                    "label": "HDV",
+                    "name": "hdv",
+                    "type": "file",
                     "instructions": "",
                     "required": 0,
                     "conditional_logic": 0,
@@ -108,11 +108,11 @@
                         "class": "",
                         "id": ""
                     },
-                    "default_value": "",
-                    "placeholder": "",
-                    "prepend": "",
-                    "append": "",
-                    "maxlength": ""
+                    "return_format": "array",
+                    "library": "all",
+                    "min_size": "",
+                    "max_size": "",
+                    "mime_types": ""
                 },
                 {
                     "key": "field_60b8f272a1449",
@@ -537,5 +537,5 @@
     "hide_on_screen": "",
     "active": true,
     "description": "",
-    "modified": 1622951754
+    "modified": 1623164835
 }
